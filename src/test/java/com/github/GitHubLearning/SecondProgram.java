@@ -5,7 +5,7 @@ public class SecondProgram {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//This is Apple
-		//This is Orange ME
+		//This is Orange MG
 		
 
 	}
