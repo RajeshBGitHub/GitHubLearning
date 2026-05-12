@@ -6,6 +6,8 @@ public class SecondProgram {
 		// TODO Auto-generated method stub
 		//This is Apple
 		//New Fruit
+		//This is Orange MG
+
 		
 
 	}
