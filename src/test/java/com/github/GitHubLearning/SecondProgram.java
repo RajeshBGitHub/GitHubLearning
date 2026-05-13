@@ -7,8 +7,7 @@ public class SecondProgram {
 		//This is Apple
 		//New Fruit
 		//This is Orange MG
-		// Master
-
+		//GHL1
 		
 
 	}
